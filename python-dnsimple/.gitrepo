@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/python-dnsimple.git
 	branch = master
-	commit = a74f5711d0d5f05dc19bacd61d73b9b98859308a
-	parent = 5a60077c4890928233c4c06eabf8788e8c54df82
+	commit = 8637431c0df0ad49b744c62404e3270cc20a8ee0
+	parent = e11f82a668f4ccb7cef9c73dfaf801b7b34fba22
 	method = merge
 	cmdver = 0.4.1
