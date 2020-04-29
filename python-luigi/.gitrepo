@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/python-luigi.git
+	branch = master
+	commit = 86ad211b48bea8d6c3be64735cdfd107ad58ba5a
+	parent = 8a191f747877ac41a2f1dbe540fd1084394593f5
+	method = merge
+	cmdver = 0.4.1
