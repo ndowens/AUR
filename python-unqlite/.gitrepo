@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/python-unqlite.git
 	branch = master
-	commit = e0c4c5d2963bcbfc8d26a8a98f3e9e378a1c94a3
-	parent = 55295fd0d59391a57adeb96160ffd18452b28652
+	commit = cbf35fa260df4402d8542493222fbafe8fe50fae
+	parent = d9978744a8d222f241a3680a9757e1bf53b1a6f0
 	method = merge
 	cmdver = 0.4.1
