@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/python-social-auth.git
+	branch = master
+	commit = 0294a02e001a93b028e3e67332bf300f39d8bc9b
+	parent = 0a4ff272b761961e0804323cd9244e20abbac6e9
+	method = merge
+	cmdver = 0.4.1
