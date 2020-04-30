@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/python-sockjs.git
 	branch = master
-	commit = 52235d90660b9a6e1431766ae48b9ba3bf56812c
-	parent = 81f49234b528b33067ac031d1615157e16ebb8e5
+	commit = d5dacc1f39c052b61dac2f91935511257d8dbb59
+	parent = 408ec9e6d93d4971dc2fc40c23b7dc48723670ba
 	method = merge
 	cmdver = 0.4.1
