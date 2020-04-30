@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/python-polyline.git
+	branch = master
+	commit = 1c0c2fa47a46c0928c7951f801e693762dddcb0b
+	parent = 5331cf525fd9aeeb07dbb9416d97a530f730c614
+	method = merge
+	cmdver = 0.4.1
