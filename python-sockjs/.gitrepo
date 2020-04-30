@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/python-sockjs.git
+	branch = master
+	commit = 52235d90660b9a6e1431766ae48b9ba3bf56812c
+	parent = 81f49234b528b33067ac031d1615157e16ebb8e5
+	method = merge
+	cmdver = 0.4.1
