@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/python-social-auth.git
 	branch = master
-	commit = c5d56e3a32839d28c737d88d4f6b59a3c354b22f
-	parent = da1d1657905306f2e2bab85cb79da4a0aa9de522
+	commit = 6f9d824d9f7a255a6ad394f4b196afed74f8438b
+	parent = ce3afc7674d525d09d32b5b189fb205c9148abc4
 	method = merge
 	cmdver = 0.4.1
