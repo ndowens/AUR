@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/saku.git
 	branch = master
-	commit = 10d8223a40b072a7c6780e32d333dddfac151b05
-	parent = db1ce626f9fe508930d2e9f90925dcb6b02a6d38
+	commit = e38272e3c972e29ace02594efa6a4fc53a995770
+	parent = a64587822756a46c7e2c53cc18b0aa0e40549c5f
 	method = merge
 	cmdver = 0.4.1
