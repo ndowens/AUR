@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/python-custom_inherit.git
+	branch = master
+	commit = 80887902f960286907591361255a147db0afad3f
+	parent = 5c82e43dc58cc453ca5e3e0deaa62f35ec1954c4
+	method = merge
+	cmdver = 0.4.1
