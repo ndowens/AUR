@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/saku.git
+	branch = master
+	commit = 10d8223a40b072a7c6780e32d333dddfac151b05
+	parent = db1ce626f9fe508930d2e9f90925dcb6b02a6d38
+	method = merge
+	cmdver = 0.4.1
