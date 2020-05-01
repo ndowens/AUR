@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/python-pyhomematic.git
+	branch = master
+	commit = e0d21779f6118f19eec6864c7c49bcc1411d23e2
+	parent = 09285c3cb0f3ec0bfd7673037f4d50e170e2d7bf
+	method = merge
+	cmdver = 0.4.1
