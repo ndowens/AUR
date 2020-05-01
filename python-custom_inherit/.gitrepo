@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/python-custom_inherit.git
 	branch = master
-	commit = 80887902f960286907591361255a147db0afad3f
-	parent = 5c82e43dc58cc453ca5e3e0deaa62f35ec1954c4
+	commit = 77358fe7e4f4252748d4bc7f3095c4c0f0c07221
+	parent = 1a089fcdd6ecac9f36d39fede0864c4cb4fb475c
 	method = merge
 	cmdver = 0.4.1
