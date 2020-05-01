@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/python-toyplot.git
+	branch = master
+	commit = 1bdd0cd4405f09c2e0f9b5ba970f0bfdf0223d18
+	parent = a8dc5a0c7b0415f14b01863f95bac1e106778fe0
+	method = merge
+	cmdver = 0.4.1
