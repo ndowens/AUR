@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/python-toytree.git
 	branch = master
-	commit = eb85763aed24180b686ec435977d017180e07207
-	parent = 9cdb8e973b08c8cae9b87f39f77eef23599f2fc2
+	commit = 8fbb11c54c87bd2d0b8c55f53f1b598be5c03d83
+	parent = 357369562f743f8b823385be08d43372ffb7d381
 	method = merge
 	cmdver = 0.4.1
