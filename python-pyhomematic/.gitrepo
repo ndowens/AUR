@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/python-pyhomematic.git
 	branch = master
-	commit = e0d21779f6118f19eec6864c7c49bcc1411d23e2
-	parent = 09285c3cb0f3ec0bfd7673037f4d50e170e2d7bf
+	commit = e82eb227d140e984e36b0761d35b1b5793610696
+	parent = 33b651d3c96fd0a9f5ae904b91afa6da83544831
 	method = merge
 	cmdver = 0.4.1
