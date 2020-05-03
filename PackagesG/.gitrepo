@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@codeberg.org:ndowens/PackagesG.git
 	branch = master
-	commit = 3924a97626190c0cf4ec29e3a12c5eceece5b081
-	parent = 244b957455e85f000ef89c9243866c439ca555a0
+	commit = 2ed8653bfc1d595b2ed172e43646ce6bda109f32
+	parent = b271d6bff84d79b3d7767ff5043e5a9709e7364c
 	method = merge
 	cmdver = 0.4.1
