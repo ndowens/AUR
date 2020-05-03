@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@codeberg.org:ndowens/AUR.git
 	branch = master
-	commit = 1dd4402fe98efc912579b2d42b0ee6631bf26cf3
+	commit = 68fb6a9cfa43d1cd60c20c537dabae17019a434b
 	method = merge
 	cmdver = 0.4.1
-	parent = 12ec4e7ab9ce1b9351b82e1a02fe043b3be7afd0
+	parent = 434d1f893f828197cb0664c0fa7d1fea9426bbe0
