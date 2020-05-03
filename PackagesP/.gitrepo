@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@codeberg.org:ndowens/PackagesP.git
+	branch = master
+	commit = 2488981b7ca369adfe1c313594540c47f9748b2d
+	parent = 41509b409a32f9eb7f57771f7d0683c266ca357d
+	method = merge
+	cmdver = 0.4.1
